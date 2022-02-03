@@ -1,3 +1,5 @@
+# Holy cow
+
 ## Assignment 2 ##
 
 import time
